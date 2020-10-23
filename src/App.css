@@ -1,0 +1,51 @@
+.margin-top50 {
+  margin-top: 50px;
+  margin-left: 30px;
+}
+.credit {
+  margin-top: 100px;
+  height: 250px;
+  width: 400px;
+  border: 0;
+  border-radius: 10px;
+  background: url(http://www.psdgraphics.com/file/world-map-background.jpg) no-repeat center center; 
+  background-size: cover;
+  color: #fff;
+}
+
+.credit__bank {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.credit__mc {
+  width: 80px;
+  float: right;
+}
+
+.credit__card-number {
+  height: 91px;
+  padding-top: 40px;
+  font-weight: 600;
+  font-size: 32px;
+  letter-spacing: 2px;
+}
+
+.credit__ccv {
+  height: 24px;
+  float: right;
+  margin-top: -10px;
+  text-transform: uppercase;
+}
+
+.credit__name,
+.credit__date{
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 16px;
+  height: 25px;
+}
+
+label {
+  color: #fff;
+}
